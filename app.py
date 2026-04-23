@@ -4,6 +4,10 @@ from PIL import Image
 import tensorflow as tf
 import os
 
+import sys
+import streamlit as st
+st.write(f"Python version: {sys.version}")
+st.stop()  # stop dulu biar cepat
 # ─────────────────────────────────────────
 # Konfigurasi halaman
 # ─────────────────────────────────────────
