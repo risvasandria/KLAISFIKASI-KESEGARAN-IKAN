@@ -1,4 +1,4 @@
-# 🚀 Panduan Deploy Streamlit
+#  Panduan Deploy Streamlit
 
 ## Langkah 1 – Simpan model dari notebook
 
