@@ -19,7 +19,7 @@ st.set_page_config(
 IMG_SIZE = (224, 224)
 
 # Ganti sesuai nama folder kelas di datasetmu
-CLASS_NAMES = ["Kelas_1", "Kelas_2", "Kelas_3"]   # ← sesuaikan!
+CLASS_NAMES = ["Busuk", "Fresh", "Semi Fresh"]  # ← sesuaikan!
 
 MODEL_PATHS = {
     "CNN"         : "models/cnn_model.h5",
